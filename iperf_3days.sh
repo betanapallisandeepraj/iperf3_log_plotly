@@ -1,0 +1,19 @@
+server_ip="10.223.62.39"
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_0.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_1.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_2.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_3.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_4.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_5.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_6.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_7.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_8.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_9.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_10.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_11.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_12.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_13.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_14.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_15.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_16.txt
+iperf3 -c $server_ip -t 43200 | tee iperf3_log_17.txt
